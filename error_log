@@ -1,0 +1,55 @@
+[18-Feb-2016 11:35:48 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/index.php on line 2
+[18-Feb-2016 11:35:48 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/index.php on line 2
+[18-Feb-2016 11:35:48 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/taajswed/public_html/taa/index.php on line 2
+[18-Feb-2016 11:35:48 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/taajswed/public_html/taa/index.php on line 48
+[18-Feb-2016 11:38:13 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/index.php on line 2
+[18-Feb-2016 11:38:13 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/index.php on line 2
+[18-Feb-2016 11:38:13 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/taajswed/public_html/taa/index.php on line 2
+[18-Feb-2016 11:38:13 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/taajswed/public_html/taa/index.php on line 48
+[18-Feb-2016 11:38:15 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/index.php on line 2
+[18-Feb-2016 11:38:15 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/index.php on line 2
+[18-Feb-2016 11:38:15 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/taajswed/public_html/taa/index.php on line 2
+[18-Feb-2016 11:38:15 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/taajswed/public_html/taa/index.php on line 48
+[18-Feb-2016 11:38:17 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/sign_up.php on line 2
+[18-Feb-2016 11:38:17 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/sign_up.php on line 2
+[18-Feb-2016 11:38:17 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/taajswed/public_html/taa/sign_up.php on line 2
+[18-Feb-2016 11:38:17 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/taajswed/public_html/taa/sign_up.php on line 48
+[18-Feb-2016 11:38:19 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/sign_up.php on line 2
+[18-Feb-2016 11:38:19 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/sign_up.php on line 2
+[18-Feb-2016 11:38:19 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/taajswed/public_html/taa/sign_up.php on line 2
+[18-Feb-2016 11:38:19 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/taajswed/public_html/taa/sign_up.php on line 48
+[18-Feb-2016 11:38:19 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/shopping.php on line 2
+[18-Feb-2016 11:38:19 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/shopping.php on line 2
+[18-Feb-2016 11:38:19 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/taajswed/public_html/taa/shopping.php on line 2
+[18-Feb-2016 11:38:19 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/taajswed/public_html/taa/shopping.php on line 48
+[18-Feb-2016 11:38:20 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/contact.php on line 2
+[18-Feb-2016 11:38:20 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/contact.php on line 2
+[18-Feb-2016 11:38:20 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/taajswed/public_html/taa/contact.php on line 2
+[18-Feb-2016 11:38:20 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/taajswed/public_html/taa/contact.php on line 48
+[18-Feb-2016 11:38:21 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/sign_up.php on line 2
+[18-Feb-2016 11:38:21 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/sign_up.php on line 2
+[18-Feb-2016 11:38:21 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/taajswed/public_html/taa/sign_up.php on line 2
+[18-Feb-2016 11:38:21 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/taajswed/public_html/taa/sign_up.php on line 48
+[18-Feb-2016 11:38:22 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/my_account.php on line 2
+[18-Feb-2016 11:38:22 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/my_account.php on line 2
+[18-Feb-2016 11:38:22 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/taajswed/public_html/taa/my_account.php on line 2
+[18-Feb-2016 11:38:22 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/taajswed/public_html/taa/my_account.php on line 48
+[18-Feb-2016 11:38:22 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/all_products.php on line 2
+[18-Feb-2016 11:38:22 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/all_products.php on line 2
+[18-Feb-2016 11:38:22 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/taajswed/public_html/taa/all_products.php on line 2
+[18-Feb-2016 11:38:22 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/taajswed/public_html/taa/all_products.php on line 48
+[18-Feb-2016 11:38:24 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/index.php on line 2
+[18-Feb-2016 11:38:24 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/taajswed/public_html/taa/index.php on line 2
+[18-Feb-2016 11:38:24 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/taajswed/public_html/taa/index.php on line 2
+[18-Feb-2016 11:38:24 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/taajswed/public_html/taa/index.php on line 48
+[18-Feb-2016 11:42:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/taajswed/public_html/taa/functions/functions.php on line 3
+[18-Feb-2016 11:42:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/taajswed/public_html/taa/functions/functions.php on line 3
+[18-Feb-2016 11:42:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/taajswed/public_html/taa/functions/functions.php on line 3
+[18-Feb-2016 11:44:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/taajswed/public_html/taa/functions/functions.php on line 3
+[18-Feb-2016 20:56:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/taajswed/public_html/taa/functions/functions.php on line 3
+[18-Feb-2016 21:05:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/taajswed/public_html/taa/functions/functions.php on line 3
+[18-Feb-2016 21:05:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/taajswed/public_html/taa/functions/functions.php on line 3
+[18-Feb-2016 21:05:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/taajswed/public_html/taa/functions/functions.php on line 3
+[18-Feb-2016 21:05:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/taajswed/public_html/taa/functions/functions.php on line 3
+[18-Feb-2016 21:05:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/taajswed/public_html/taa/functions/functions.php on line 3
+[18-Feb-2016 21:05:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/taajswed/public_html/taa/functions/functions.php on line 3
